@@ -1,7 +1,5 @@
 # C-Project-SuperMarket
-A project during a degree in software engineering - a management system in the C language. Using dynamic assignments, string, Enum, saving and reading from files and more and more
-C Supermarket Project
-
+A project during a degree in software engineering - a management system in the C language. Using dynamic assignments, string, Enum, saving and reading from files
 This project is a simple supermarket simulator written in C. It allows option to add groceries, customers, purchase of products, calculation of purchase account.
 
 ##Features
